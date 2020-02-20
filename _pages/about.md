@@ -1,14 +1,34 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p align="center">
+  <img src="https://riccardorenzulli.github.io/images/turin.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+# About me
+* I am a PhD student at the [Computer Science Department](http://beta.di.unito.it/index.php/english) of [University of Turin](https://en.unito.it/), advised by Prof. [Marco Grangetto](http://www.di.unito.it/~mgrange/) who is the coordinator of the [EIDOSlab](http://beta.di.unito.it/index.php/english/research/groups/digital-image-processing-computer-vision-and-virtual-reality/about) group. 
+<br>[[Curriculum Vitae](http://riccardorenzulli.github.io/files/riccardorenzulli_cv_onepage.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=9xXsThsAAAAJ&hl=it)]
+* My research interests lie in the general area of artificial intelligence, particularly in machine learning,
+deep learning, natural language processing and reinforcement learning as well as their applications, especially in computer vision.
+* I received my master's and bachelor’s degrees at the [Computer Science Department](http://beta.di.unito.it/index.php/english) of [University of Turin](https://en.unito.it/). My previous research advisor was Prof. [Valentina Gliozzi](http://www.di.unito.it/~gliozzi/) who introduced me in description logics and non-monotonic reasoning.
+* I am very interested in deep learning models which can be trained with fewer labeled samples and fewer trials. I am currently working on optimizing capsule networks in order to apply them on more advanced tasks such as object detection and segmentation.
+
+
+
+# Recent News
+* February 17, I won an Erasmus Scholarship in Valencia.
+* January 29, I started working on segmentation of pulmonary nodules with deep learning for the [DeepHealth](https://deephealth-project.eu/).
+* November 29, 2019. Talk on capsule networks for the Deep Learning course (2019-2020) at the [Computer Science Department](http://beta.di.unito.it/index.php/english) of [University of Turin](https://en.unito.it/).
+* November 1, 2019. First day as a PhD student!
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +67,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

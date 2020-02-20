@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Curriculum Vitae [PDF]](http://riccardorenzulli.github.io/files/riccardorenzulli_cv_onepage.pdf)
+
+<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
