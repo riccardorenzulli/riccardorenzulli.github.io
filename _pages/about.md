@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://riccardorenzulli.github.io/images/turin.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://riccardorenzulli.github.io/images/turin.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About me
