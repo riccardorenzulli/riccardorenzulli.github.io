@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My new website is online! More pages are coming soon. :sparkles: :smile: 
+My new website is online! More pages are coming soon. :sparkles: :smile:
