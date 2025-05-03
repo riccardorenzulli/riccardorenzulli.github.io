@@ -27,8 +27,12 @@
   type: time_table
   contents:
     - title: PostDoc Researcher
+      institution: University of Turin, Oncology Department, Italy
+      year: 2025 - Now
+
+    - title: PostDoc Researcher
       institution: University of Turin, Computer Science Department, Italy
-      year: 2023 - Now
+      year: 2023 - 2025
 
     - title: Visiting Researcher
       institution: Aalto University, School of Electrical Engineering, Helsinki, Finland

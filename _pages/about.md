@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: about
 permalink: /
 subtitle: Postdoctoral Researcher, University of Turin, <a href='https://eidos.di.unito.it/'>EIDOS group</a>
 
