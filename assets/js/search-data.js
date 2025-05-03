@@ -3,14 +3,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-home",
-    title: "home",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
+  },{id: "nav-resume",
+          title: "resume",
           description: "This is a brief summary of my experiences. For the full cv, click on the pdf download button.",
           section: "Navigation",
           handler: () => {
@@ -402,6 +402,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-paper-accepted-to-neurips-scifordl-workshop-2024",
           title: 'Paper accepted to NeurIPS SciForDL Workshop 2024.',
+          description: "",
+          section: "News",},{id: "news-insait-workshop-accepted-to-iciap-25",
+          title: 'INSAIT Workshop accepted to ICIAP 25!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
