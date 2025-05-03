@@ -1,19 +1,16 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, University of Turin, <a href='https://eidos.di.unito.it/'>EIDOS group</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: IMG_5895.JPG
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,13 +19,25 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Hello, World!** 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am fascinated by **understanding** and **reasoning** with **deep neural networks** and how we can enhance their cognitive plausibility. As different networks encode distinct assumptions, can we leverage these **inductive biases** to construct more robust models? For instance, is it possible to create networks that require less data and fewer parameters by modeling intricate objects as compositions of distinct parts?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+To mention a bunch of keywords, I'm interested in *representation learning*, *object-centric learning*, *prototypical learning*, *shortcut learning*, *robustness*, *interpretability* and *foundation models*. Additionally, I'm keen on exploring diverse applications, such as medical image analysis and aerial/satellite imagery.
+
+I received my **PhD** from **University of Turin** in 2023, advised by Prof. Marco Grangetto. My PhD research focused on **capsule networks** (check [here](https://docs.google.com/presentation/d/1k2axJVbhXWC9fM4cVLhYJ0pYhX2hEIBOSGsJNUAadJQ/edit?usp=sharing) the presentation of my defense), which are deep learning models that encode objects into vector representations, called capsules, that can be used to model hierarchical relationships better.
+
+In 2022, I spent six months at **Aalto University** (Helsinki, Finland), supervised by Prof. Ville Kyrki and Francesco Verdoja, where I developed a system for non-GNSS visual localization of UAVs.
+
+In 2018-2019, I also worked for some artificial intelligence companies as **deep learning scientist**.
+
+I received my master's and bachelor's degrees at the Computer Science Department of the University of Turin. My previous research advisor was Prof. Valentina Gliozzi, who introduced me to *description logics*, *non-monotonic reasoning* and *prototypical representations*.
+
+[Collaborations!](https://riccardorenzulli.github.io) I am **looking for collaborations**, so if you are interested or you want to have a constructive discussion chat, please drop me an email (riccardo.renzulli@unito.it).
+
+<span style="color:#3b9e80">**P.S. Make Earth Green Again** 🌱</span>
